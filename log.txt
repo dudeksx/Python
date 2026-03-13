@@ -1,0 +1,13 @@
+eduardo,sucesso
+sashi,falha
+joao,falha
+sashi,falha
+maria,sucesso
+sashi,falha
+sashi,falha
+joao,sucesso
+joao,falha
+joao,falha
+joao,falha
+joao,falha
+joao,falha

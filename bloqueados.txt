@@ -1,0 +1,2 @@
+Usuário: sashi | Falhas: 4 | Status: BLOQUEADO
+Usuário: joao | Falhas: 6 | Status: BLOQUEADO
